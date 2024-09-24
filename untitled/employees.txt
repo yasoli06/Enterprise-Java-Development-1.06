@@ -1,0 +1,50 @@
+Name: John Doe
+Email: john.doe@example.com
+Age: 30
+Salary: $50000.0
+
+Name: Jane Doe
+Email: jane.doe@example.com
+Age: 28
+Salary: $48000.0
+
+Name: Alice Johnson
+Email: alice.johnson@example.com
+Age: 35
+Salary: $55000.0
+
+Name: Bob Smith
+Email: bob.smith@example.com
+Age: 40
+Salary: $60000.0
+
+Name: Charlie Brown
+Email: charlie.brown@example.com
+Age: 25
+Salary: $45000.0
+
+Name: Emily Davis
+Email: emily.davis@example.com
+Age: 32
+Salary: $53000.0
+
+Name: George Miller
+Email: george.miller@example.com
+Age: 29
+Salary: $47000.0
+
+Name: Hannah Wilson
+Email: hannah.wilson@example.com
+Age: 27
+Salary: $46000.0
+
+Name: Ian White
+Email: ian.white@example.com
+Age: 38
+Salary: $58000.0
+
+Name: Julia Green
+Email: julia.green@example.com
+Age: 31
+Salary: $52000.0
+
